@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRuOzcaRJrw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Terkin\\Downloads\\vscoding\\chesterbot\\neirobot_DS\\PROJECT\\PROJECT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Terkin\\.nuget\\packages\\discord.net\\3.18.0\\discord.net.3.18.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\discord.net.commands\\3.18.0\\discord.net.commands.3.18.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\discord.net.core\\3.18.0\\discord.net.core.3.18.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\discord.net.interactions\\3.18.0\\discord.net.interactions.3.18.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\discord.net.rest\\3.18.0\\discord.net.rest.3.18.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\discord.net.webhook\\3.18.0\\discord.net.webhook.3.18.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\discord.net.websocket\\3.18.0\\discord.net.websocket.3.18.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.3\\microsoft.extensions.configuration.10.0.3.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\10.0.3\\microsoft.extensions.configuration.environmentvariables.10.0.3.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.2\\microsoft.extensions.configuration.fileextensions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.2\\microsoft.extensions.configuration.json.10.0.2.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.2\\microsoft.extensions.fileproviders.abstractions.10.0.2.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.2\\microsoft.extensions.fileproviders.physical.10.0.2.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.2\\microsoft.extensions.filesystemglobbing.10.0.2.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.3\\microsoft.extensions.primitives.10.0.3.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\sixlabors.imagesharp\\3.1.12\\sixlabors.imagesharp.3.1.12.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\system.interactive.async\\6.0.1\\system.interactive.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
+    "C:\\Users\\Terkin\\.nuget\\packages\\system.servicemodel.syndication\\10.0.2\\system.servicemodel.syndication.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
